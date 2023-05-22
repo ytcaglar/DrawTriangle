@@ -1,4 +1,4 @@
-﻿# Draw Triangle App | Beginner Level .Net Core Path [www.patika.dev]
+﻿# Draw Triangle with App | Beginner Level .Net Core Path [www.patika.dev]
 
 Hello, everyone. In this project, I tried to make an application that draws a triangle according to the side length entered by the user.
 
