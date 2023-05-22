@@ -1,0 +1,45 @@
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\DrawTriangle\bin\Debug\net7.0\DrawTriangle.exe
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\DrawTriangle\bin\Debug\net7.0\DrawTriangle.deps.json
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\DrawTriangle\bin\Debug\net7.0\DrawTriangle.runtimeconfig.json
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\DrawTriangle\bin\Debug\net7.0\DrawTriangle.dll
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\DrawTriangle\bin\Debug\net7.0\DrawTriangle.pdb
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\DrawTriangle\obj\Debug\net7.0\DrawTriangle.csproj.AssemblyReference.cache
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\DrawTriangle\obj\Debug\net7.0\DrawTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\DrawTriangle\obj\Debug\net7.0\DrawTriangle.AssemblyInfoInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\DrawTriangle\obj\Debug\net7.0\DrawTriangle.AssemblyInfo.cs
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\DrawTriangle\obj\Debug\net7.0\DrawTriangle.csproj.CoreCompileInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\DrawTriangle\obj\Debug\net7.0\DrawTriangle.dll
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\DrawTriangle\obj\Debug\net7.0\refint\DrawTriangle.dll
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\DrawTriangle\obj\Debug\net7.0\DrawTriangle.pdb
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\DrawTriangle\obj\Debug\net7.0\DrawTriangle.genruntimeconfig.cache
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\DrawTriangle\obj\Debug\net7.0\ref\DrawTriangle.dll
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\DrawTriangle\bin\Debug\net7.0\DrawTriangle.exe
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\DrawTriangle\bin\Debug\net7.0\DrawTriangle.deps.json
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\DrawTriangle\bin\Debug\net7.0\DrawTriangle.runtimeconfig.json
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\DrawTriangle\bin\Debug\net7.0\DrawTriangle.dll
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\DrawTriangle\bin\Debug\net7.0\DrawTriangle.pdb
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\DrawTriangle\obj\Debug\net7.0\DrawTriangle.csproj.AssemblyReference.cache
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\DrawTriangle\obj\Debug\net7.0\DrawTriangle.GeneratedMSBuildEditorConfig.editorconfig
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\DrawTriangle\obj\Debug\net7.0\DrawTriangle.AssemblyInfoInputs.cache
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\DrawTriangle\obj\Debug\net7.0\DrawTriangle.AssemblyInfo.cs
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\DrawTriangle\obj\Debug\net7.0\DrawTriangle.csproj.CoreCompileInputs.cache
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\DrawTriangle\obj\Debug\net7.0\DrawTriangle.dll
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\DrawTriangle\obj\Debug\net7.0\refint\DrawTriangle.dll
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\DrawTriangle\obj\Debug\net7.0\DrawTriangle.pdb
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\DrawTriangle\obj\Debug\net7.0\DrawTriangle.genruntimeconfig.cache
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\C# PATİKA\DrawTriangle\obj\Debug\net7.0\ref\DrawTriangle.dll
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\Kolay Seviye Projeler\DrawTriangle\bin\Debug\net7.0\DrawTriangle.exe
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\Kolay Seviye Projeler\DrawTriangle\bin\Debug\net7.0\DrawTriangle.deps.json
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\Kolay Seviye Projeler\DrawTriangle\bin\Debug\net7.0\DrawTriangle.runtimeconfig.json
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\Kolay Seviye Projeler\DrawTriangle\bin\Debug\net7.0\DrawTriangle.dll
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\Kolay Seviye Projeler\DrawTriangle\bin\Debug\net7.0\DrawTriangle.pdb
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\Kolay Seviye Projeler\DrawTriangle\obj\Debug\net7.0\DrawTriangle.csproj.AssemblyReference.cache
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\Kolay Seviye Projeler\DrawTriangle\obj\Debug\net7.0\DrawTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\Kolay Seviye Projeler\DrawTriangle\obj\Debug\net7.0\DrawTriangle.AssemblyInfoInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\Kolay Seviye Projeler\DrawTriangle\obj\Debug\net7.0\DrawTriangle.AssemblyInfo.cs
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\Kolay Seviye Projeler\DrawTriangle\obj\Debug\net7.0\DrawTriangle.csproj.CoreCompileInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\Kolay Seviye Projeler\DrawTriangle\obj\Debug\net7.0\DrawTriangle.dll
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\Kolay Seviye Projeler\DrawTriangle\obj\Debug\net7.0\refint\DrawTriangle.dll
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\Kolay Seviye Projeler\DrawTriangle\obj\Debug\net7.0\DrawTriangle.pdb
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\Kolay Seviye Projeler\DrawTriangle\obj\Debug\net7.0\DrawTriangle.genruntimeconfig.cache
+C:\Users\tolun\OneDrive\Masaüstü\C# PATİKA\Kolay Seviye Projeler\DrawTriangle\obj\Debug\net7.0\ref\DrawTriangle.dll
